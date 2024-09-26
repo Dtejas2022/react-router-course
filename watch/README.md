@@ -43,44 +43,4 @@ Start the development server:
 bash
 Copy code
 npm run dev
-Open your browser and navigate to:
-
-arduino
-Copy code
-http://localhost:3000
-Directory Structure
-plaintext
-Copy code
-balaji-watch-center/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── Navbar.jsx
-│   │   ├── Footer.jsx
-│   │   ├── Home.jsx
-│   │   ├── About.jsx
-│   │   ├── Contact.jsx
-│   │   ├── Login.jsx
-│   │   ├── Register.jsx
-│   │   ├── Products.jsx
-│   │   ├── WatchRepair.jsx
-│   ├── App.jsx
-│   ├── index.jsx
-│   └── styles/
-├── index.html
-├── package.json
-└── tailwind.config.js
-Contributing
-If you want to contribute to the project, feel free to fork the repository and create a pull request.
-
-Fork the repository
-Create your feature branch (git checkout -b feature/AmazingFeature)
-Commit your changes (git commit -m 'Add some AmazingFeature')
-Push to the branch (git push origin feature/AmazingFeature)
-Open a pull request
-License
-This project is open-source and available under the MIT License.
-
-Acknowledgments
-Inspired by the need for a centralized online watch service platform.
-Thanks to the community for their invaluable resources and documentation.
+Open your browser and navigate
