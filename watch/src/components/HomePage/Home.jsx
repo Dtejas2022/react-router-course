@@ -9,9 +9,9 @@ function Home() {
   return (
     <div>
       <Herosection />
-      <FeatureProducts products={productData} />
+      {/* <FeatureProducts products={productData} /> */}
       <RepaiServices />
-      <Testimonials testimonials={testimonialData} />
+      {/* <Testimonials testimonials={TestimonialData} /> */}
       <CallToAction />
     </div>
   )

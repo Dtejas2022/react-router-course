@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 function Header() {
   return (
-    <div>
+    <div className='fixed w-full'>
       <nav className="bg-gray-800 p-4 shadow-md">
       <div className="container mx-auto flex items-center justify-between">
         {/* Logo Section */}
@@ -20,10 +20,10 @@ function Header() {
             <Link to="/" className="hover:text-gray-300">Home</Link>
           </li>
           <li>
-            <Link to="/watch-repair" className="hover:text-gray-300">Watch Repair</Link>
+            <Link to="/WatchRepair" className="hover:text-gray-300">Watch Repair</Link>
           </li>
           <li>
-            <Link to="/about" className="hover:text-gray-300">About</Link>
+            <Link to="/About" className="hover:text-gray-300">About</Link>
           </li>
           <li>
             <Link to="/contact" className="hover:text-gray-300">Contact</Link>

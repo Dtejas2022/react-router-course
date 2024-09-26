@@ -23,7 +23,8 @@ function RepaiServices() {
                     </div>
                 </div>
                 <div className="text-center mt-8">
-                    <button className="bg-green-500 text-white py-3 px-6 rounded-lg hover:bg-green-600 transition duration-300">Get Your Watch Repaired</button>
+                    <button className="bg-green-500 text-white py-3 px-6 rounded-lg hover:bg-green-600 transition duration-300">
+                        Get Your Watch Repaired</button>
                 </div>
             </section>
         </div>
