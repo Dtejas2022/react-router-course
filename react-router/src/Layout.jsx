@@ -7,7 +7,7 @@ function Layout() {
     return (
         <div>
             <Header />
-            <div className='h-screen flex justify-center items-center'>
+            <div >
                 <Outlet />
             </div>
             <Footer />
